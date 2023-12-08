@@ -2,12 +2,13 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/desktop%20design.PNG)
+![](./assets/phone%20design.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Results summary solution](https://www.frontendmentor.io/solutions/results-summary-c4z4ADM2w-)
+- Live Site URL: [Results summary live site](https://goat3ggs.github.io/frontend-mentor-results-summary/)
 
 ## My process
 
